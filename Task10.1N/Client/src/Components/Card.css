@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+
+.row {
+    display: flex;
+    width: 1500px;
+    height: 400px;
+}
+
+.column {
+    flex: 33.3%;
+    padding: 5px;
+}

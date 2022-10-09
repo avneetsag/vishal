@@ -1,0 +1,17 @@
+.form-holder {
+    border: 2px solid black;
+    background-image: url(background.jpeg);
+    text-align: center;
+    font-size: 24px;
+    background-size: auto;
+ }
+ .form-holder .input[type="checkbox"] {
+	margin-top: 3px;
+}
+ .form-holder .btn{
+   font-size: 16px;
+	font-weight: bold;
+	background: #4a4a4a;
+	border: none;
+	min-width: 140px;
+ }
